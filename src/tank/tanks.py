@@ -8,3 +8,6 @@
 # Copyright:    (c) Tony 2014
 # Licence:      <MIT Licence>
 #-------------------------------------------------
+
+class RoundTank:
+    pass
